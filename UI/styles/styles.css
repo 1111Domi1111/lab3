@@ -28,15 +28,7 @@
   height: 22,5%;
     width: 100%;
 }
-ul{
-        margin: 0 0;
 
-    }
-    div ul li{
-        display: inline;
-        padding-right:5% ;
-        font-size:15px;
-    }
 
 .right {
   grid-area: right;
